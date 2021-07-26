@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Judul </title>
+        <style>
+            body{
+                width: 588px;
+            }
+            h1{ background-color: blueviolet;padding: 10px;}
+            h2{ background-color: blueviolet;padding: 10px;}
+            h3{ background-color: blueviolet;padding: 10px;}
+        </style>
+    </head>
+    <body>
+        <h1>heading halaman</h1>
+        <p>penjelasan dari halaman</p>
+        <h2>sub- heading</h2>
+        <p>pembuatan sub heading dalam membuat struktur halaman</p>
+        <h3> sub headoing lain</h3>
+        <p> penjelsan lainnya</p>
+    </body>
+</html>
